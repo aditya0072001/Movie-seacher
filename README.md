@@ -1,2 +1,2 @@
-# Movie-seacher
+# Logic-Movie-Finder
 Hybrid app
